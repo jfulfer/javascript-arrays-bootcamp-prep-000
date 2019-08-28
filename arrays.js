@@ -33,4 +33,3 @@ function removeElementFromBeginningOfArray(chocolateBars) {
   var newChocolate = chocolateBars.slice(1);
   return newChocolate;
 }
-}
