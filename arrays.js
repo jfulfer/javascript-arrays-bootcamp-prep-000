@@ -4,3 +4,5 @@ function addElementToBeginningOfArray(chocolateBars, newBar) {
   var newArray = [newBar, ...chocolateBars];
   return newArray;
 }
+
+function 
