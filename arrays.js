@@ -6,5 +6,6 @@ function addElementToBeginningOfArray(chocolateBars, newBar) {
 }
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
-  chocolateBars.push
+  chocolateBars.push(newBar);
+  return chocolateBars;
 }
