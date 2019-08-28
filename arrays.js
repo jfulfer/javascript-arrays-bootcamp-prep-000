@@ -5,9 +5,3 @@ function addElementToBeginningOfArray(chocolateBars, newBar) {
   return newArray;
 }
 
-var colors = ["Yellow", "Blue", "Green"]
-
-function addElementToBeginningOfArray(colors, newColor) {
-  colors.push(newColor);
-  return colors;
-}
