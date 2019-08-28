@@ -5,7 +5,7 @@ function addElementToBeginningOfArray(chocolateBars, newBar) {
   return newArray;
 }
 
-var newArray =
+var newArray = ["Yellow", ]
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
   chocolateBars.push(newBar);
