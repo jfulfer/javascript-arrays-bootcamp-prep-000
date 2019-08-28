@@ -42,4 +42,4 @@ function removeElementFromEndOfArray(chocolateBars) {
   return chocolateBars.slice(0, chocolateBars.length -1);
 }
 
-removeFromMiddle = [...chocolateBars.slice(0, 2), ...chocolateBars
+removeFromMiddle = [...chocolateBars.slice(0, 3), ...chocolateBars.slice(4)]
